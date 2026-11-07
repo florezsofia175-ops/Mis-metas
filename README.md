@@ -12,3 +12,4 @@
 
 ## Mi compromiso
 Trabajar cada día para alcanzar mis sueños y seguir creciendo.
+- Practicar programación todos los días.
