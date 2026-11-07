@@ -15,3 +15,4 @@ Trabajar cada día para alcanzar mis sueños y seguir creciendo.
 - Practicar programación todos los días.
 - Aprender nuevas tecnologías y herramientas de desarrollo.
 - Fortalecer mis conocimientos en bases de datos y JavaScript.
+- Crear proyectos propios y trabajar como desarrolladora Full Stack.
